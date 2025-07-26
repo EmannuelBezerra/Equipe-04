@@ -4,14 +4,14 @@ import entidades.Lista_duplamente_encadeada;
 public class programa {
 	public static void main(String[] args) {
 		Lista_duplamente_encadeada lista = new Lista_duplamente_encadeada();
-		lista.inserir_fim(8);
-		lista.inserir_fim(12);
-		lista.inserir_fim(19);
-		lista.inserir_fim(43);
-		lista.inserir_fim(45);
-		lista.inserir_fim(56);
-		lista.inserir_fim(67);
-		lista.inserir_fim(95);
+		lista.inserir_fim(8); //[0]
+		lista.inserir_fim(12); //[1]
+		lista.inserir_fim(19); //[2]
+		lista.inserir_fim(43); //[3]
+		lista.inserir_fim(45); //[4]
+		lista.inserir_fim(56); //[5]
+		lista.inserir_fim(67); //[6]
+		lista.inserir_fim(95); //[7]
 		
 		System.out.println("Busca Sequencial");
 		System.out.printf("Busca de 19 = Posicao %d", lista.busca_sequencial(19));
