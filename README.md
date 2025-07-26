@@ -1,2 +1,4 @@
 # Equipe-04
-Repositório da equipe 4, contendo as questões 13, 14, 15 e 16
+Gera A:
+
+Implemetação em python de todos os 10 algoritmos de ordenação estudados em sala, testados em vetores de diferentes tamanhos. Ao final, dois gráficos são plotados para que se possa conparar o grau de eficiência de cada um.
