@@ -1,5 +1,5 @@
 #include "shell_sort.h"
-#include <stdlib.h>  // Corrige erro de NULL
+#include <stdlib.h>  
 
 int trocas = 0;
 int comparacoes = 0;
