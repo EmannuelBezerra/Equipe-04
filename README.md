@@ -1,6 +1,14 @@
 # Shell Sort com Lista Encadeada (C)
 
 Este projeto implementa o algoritmo Shell Sort diretamente sobre uma lista encadeada em C.
+Observação importante:
+
+O algoritmo Shell Sort pode ser implementado de duas formas principais:
+Com vetor (array):
+mais eficiente devido ao acesso direto por índice. É a abordagem mais comum e performática.
+
+Diretamente na lista encadeada:
+mais desafiadora e menos eficiente, pois exige simular o acesso por índice usando ponteiros.
 
 ## Funcionalidades
 - Ordenação usando gaps (sequência de Knuth)
