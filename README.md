@@ -1,6 +1,6 @@
 # Shell Sort com Lista Encadeada (C)
 
-Este projeto implementa o algoritmo Shell Sort diretamente sobre uma lista encadeada em C, sem uso de arrays.
+Este projeto implementa o algoritmo Shell Sort diretamente sobre uma lista encadeada em C.
 
 ## Funcionalidades
 - Ordenação usando gaps (sequência de Knuth)
@@ -22,4 +22,4 @@ gcc src/main.c src/shell_sort.c src/lista_encadeada.c -o shell_sort
 ## Estrutura
 
 - `src/`: Código-fonte
-- `docs/`: Slides do seminário
+
