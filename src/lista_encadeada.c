@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include "lista_encadeada.h"
 
+// Cria uma lista encadeada a partir de um array
 Node* criar_lista(int *valores, int n) {
     Node *head = NULL, *tail = NULL;
     for (int i = 0; i < n; i++) {
@@ -16,7 +17,7 @@ Node* criar_lista(int *valores, int n) {
     }
     return head;
 }
-
+// Imprime todos os elementos da lista
 void imprimir_lista(Node *head) {
     while (head != NULL) {
         printf("%d ", head->data);
@@ -24,7 +25,7 @@ void imprimir_lista(Node *head) {
     }
     printf("\n");
 }
-
+// Libera toda a memória alocada pela lista
 void liberar_lista(Node *head) {
     while (head != NULL) {
         Node *tmp = head;
