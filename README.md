@@ -1,14 +1,16 @@
-# Equipe-04
-Repositório da equipe 4, contendo as questões 13, 14, 15 e 16
+# Geral B (Python)
 
-GERAL A - Emannuel Bezerra Castro
+Implementação em python dos seguintes algoritmos: busca linear convencional e com sentinela, busca binária convencional e rápida.
 
-GERAL B - 
 
-13 -
+# Execução:
 
-14 - José Carlos
+Foram criados 9 vetores com os seguintes tamanhos: [1000, 3000, 6000, 9000, 12000, 15000, 18000, 21000, 24000]. Eles foram preenchidos por valores inteiros aleatórios.
 
-15 - Emannuel Bezerra Castro
+O método de ordenação para as buscas binárias implementado foi o merge short. O elemento chave para ser buscado nos vetores foi escolhido de forma aleatória, após isso, a chave é buscada em cada um dos vetores por meio dos quatro algoritmos. Em cada busca, o tempo foi armazenado para a plotagem dos gráficos.
 
-16 - Igor Ferreira Borges
+
+# Gráficos:
+
+Foram plotados dois gráficos que mostram a perfomace dos algorítmos de busca, exibindo o tempo de execução para cada tamanho do vetor, permitindo assim a comparação entre os diferentes tipos de algoritmos de busca.
+
