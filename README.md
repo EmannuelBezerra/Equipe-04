@@ -1,14 +1,9 @@
-# Equipe-04
-Repositório da equipe 4, contendo as questões 13, 14, 15 e 16
+# Questão 16
 
-GERAL A - Emannuel Bezerra Castro
+Implemente em Java ou C++ ou Python os algoritmos recursivos e 
+não-recursivos para determinar: 
 
-GERAL B - Emannuel de Medeiros
-
-13 - Emannuel de Medeiros
-
-14 - José Carlos
-
-15 - Emannuel Bezerra Castro e Vinicius Damascena.
-
-16 - Igor Ferreira Borges
+a) O número de nós em uma árvore binária. 
+b) A soma dos conteúdos de todos os nós em uma árvore binária, 
+considerando que cada nó contém um inteiro 
+c) A profundidade de uma árvore binária
