@@ -1,14 +1,20 @@
-# Equipe-04
-Repositório da equipe 4, contendo as questões 13, 14, 15 e 16
+# Questão 13 (Java)
 
-GERAL A - Emannuel Bezerra Castro
+Nessa questão foram exploradas diferentes formas de se ordenar um conjunto de dados, mais precisamente, um grupo de 8 alunos.
 
-GERAL B - 
 
-13 -
+# Execução:
 
-14 - José Carlos
+A classe aluno é composta pelo nome, nota1 e nota2. Um vetor com 8 objetos do tipo Aluno foi criado com dados inseridos pelo usuário.
+## Ordenação crescente por média (Selection Sort):
+Uma cópia do vetor é enviada para a função que coleta as médias de cada aluno utilizando o método responsável do objeto Aluno, que calcula a média ponderada, ao obter as médias, a função organiza a cópia do vetor com base nelas.
 
-15 - Emannuel Bezerra Castro
+## Ordenação crescente por n1 (Bubble Sort):
+Uma cópia do vetor é enviada para a função responsável, que ao coletar as notas 1 dos alunos, comparando e trocando elementos adjacentes.
 
-16 - Igor Ferreira Borges
+
+## Ordenação alfábetica dos reprovados (Insertion Sort):
+Um vetor filtrado (média < 7.0) é ordenado pelo nome, inserindo cada aluno na posição correta.
+
+
+
