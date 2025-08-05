@@ -1,7 +1,7 @@
 # Shell Sort com Lista Encadeada (C)
 Aluno: José Carlos
 
-Quatão 14) Implementar o algoritmo Shell-Sort para ordenar uma lista 
+Questão 14) Implementar o algoritmo Shell-Sort para ordenar uma lista 
 encadeada de números. Linguagens permitidas: C, C++, Java, Python e 
 Ruby.
 
