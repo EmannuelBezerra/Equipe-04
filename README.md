@@ -1,4 +1,5 @@
 # Shell Sort com Lista Encadeada (C)
+Aluno: José Carlos
 
 Este projeto implementa o algoritmo Shell Sort diretamente sobre uma lista encadeada em C.
 Observação importante:
