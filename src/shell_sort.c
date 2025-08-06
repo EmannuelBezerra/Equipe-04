@@ -55,6 +55,7 @@ void shellSortLista(Node *head) {
                 trocas++;
             }
         }
+        //diminui o Gap
         h /= 3;
     }
 }
